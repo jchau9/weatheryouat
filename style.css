@@ -1,0 +1,54 @@
+body {
+    background: url('images/backgroundsmaller.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    font-family: Arial;
+    color: black;
+}
+
+input[type=text]{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.shadow{
+    font-family: 'Satisfy', cursive; 
+    font-size: 75px;
+    text-shadow:
+     -1px -1px 0 #000,  
+     1px -1px 0 #000,
+     -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+.box {
+    position: absolute;
+    opacity: 0.95;
+    margin: 3% 1% 1% 31%;
+    padding: 1%;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    background-color: white;
+    overflow: scroll;
+    float: left;
+}
+
+#inputMonth{
+    opacity: 1;
+}
+.cities:hover {
+    color: red;
+}
+
+#title{
+    color: white;
+}
+
+h1 {
+    font-size: 75px;
+    color: black;
+    text-align: center;
+}
