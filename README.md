@@ -5,3 +5,5 @@ takes the user's input for the desired time of year and temperature range, and g
 for the ideal vacation weather. 
 
 This project won Best UI/UX Design Award Sponsored By Google at AthenaHacks. 
+
+Authors: Jenny Chau, Grace Choe
